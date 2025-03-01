@@ -1,0 +1,5 @@
+anthropic
+langchain
+crewai
+python-dotenv
+matplotlib
