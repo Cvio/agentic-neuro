@@ -1,8 +1,3 @@
-# 🚀 Project Setup Guide
-
-Welcome to this repository! Follow these steps to clone the repo, set up a virtual environment, and install dependencies to get started quickly.
-
-
 ## Clone the Repository
 First, download the project to your local machine:
 ```bash
