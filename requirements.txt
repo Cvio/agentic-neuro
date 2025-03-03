@@ -1,5 +1,6 @@
 anthropic
 langchain
+langchain-community
 crewai
 python-dotenv
 matplotlib
